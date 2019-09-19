@@ -68,7 +68,7 @@ h1 {
     position: relative;
     line-height: 1.4em;
     font-size: 1.03em;
-    padding: 10px;
+    padding: 20px;
     list-style: none;
     text-align: left;
     font-weight: 100;
@@ -111,18 +111,18 @@ h1 {
 }
 
 .timeline .event:before {
-    left: -190px;
+    left: -160px;
     color: rgba(255, 255, 255, 0.8);
     content: attr(data-date);
     text-align: right;
     font-weight: 200;
     font-size: 14pt;
-    width: 110px;
+    width: 120px;
 }
 
 .timeline .event:after {
     box-shadow: 0 0 0 4px #004ffc;
-    left: -57.85px;
+    left: -28px;
     background: #313534;
     border-radius: 50%;
     height: 11px;
