@@ -12,6 +12,8 @@
 body {
     background: #252827;
     font-size: 16px;
+	width: 85%;
+	margin: auto;
 }
 
 p {
